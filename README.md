@@ -1,1 +1,1 @@
-# CSA1738
+# CSA1738 - Artificial Intelligence for Personalized Learning
